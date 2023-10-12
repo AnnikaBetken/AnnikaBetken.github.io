@@ -85,8 +85,8 @@ author:
   bio              : "Assistant professor in the statistics group at Twente University"
   location         : "Location"
   employer         : "University of Twente"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -222,7 +222,7 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
+      values:
       layout: single
       author_profile: true
       share: true

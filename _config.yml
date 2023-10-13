@@ -83,12 +83,12 @@ author:
   name             : "Annika"
   avatar           : "annika.jpeg"
   bio              : "Assistant professor in the statistics group at Twente University"
-  location         : "Location"
-  employer         : "University of Twente"
+  location         : "https://www.google.de/maps/place/University+of+Twente/@50.6836356,-0.5181089,5.56z/data=!3m1!5s0x47b813d9fcd767e3:0xd6c4861027d901e8!4m6!3m5!1s0x47b813d992e2ab01:0x790b33d6b663608f!8m2!3d52.2396538!4d6.84979!16zL20vMHBzN2g?entry=ttu"
+  employer         : #"University of Twente"
   pubmed           : 
   googlescholar    : 
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Annika-Betken"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/AnnikaBetken"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 

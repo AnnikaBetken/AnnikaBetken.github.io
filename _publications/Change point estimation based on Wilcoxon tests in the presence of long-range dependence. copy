@@ -1,8 +1,8 @@
 ---
-title: "Higher order approximation for constructing confidence intervals in time series"
+title: "Block Bootstrapping the Empirical Distance Covariance"
 collection: publications
-authors:   Annika Betken, Marie-Christine Düker
-date: 2022-01-01
+authors:   Annika Betken, Herold Dehling, Marius Kroll
+date: 2021-01-01
 venue: 'arXive'
-paperurl: 'https://arxiv.org/abs/2211.01108'
+paperurl: 'https://arxiv.org/abs/2112.14091'
 ---

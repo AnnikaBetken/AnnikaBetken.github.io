@@ -18,7 +18,8 @@ __ROBUST METHODS FOR TIME SERIES ANALYSIS__
 
 My research focuses on robust methods for time series analysis, i.e. on statistical techniques that are designed to handle data that contains outliers, structural changes, or other types of deviations from the expected patterns. Traditional time series analysis methods can be sensitive to such deviations and may produce inaccurate results. Robust methods aim to overcome this limitation by identifying and downweighting the influence of anomalies, while still preserving the overall structure of the time series. Ordinal patterns, which represent the spatial ordering of consecutive values in a time series, constitute one example of such methods.
 
-![alt text](op_in_ts.png "Ordinal pattern")
+<img src="/Users/annikabetken/sciebo/Arbeit/Webpage/annikabetken.github.io/_pages/op_in_ts.png" alt="Ordinal pattern" style="height: 100px; width:200px;"/>
+
 
 __TRANSFER LEARNING__
 

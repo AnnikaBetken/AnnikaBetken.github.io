@@ -10,19 +10,21 @@ redirect_from:
 
 I am an assistant professor at Twente University. I mainly work on Time Series Analysis and, more recently,  started working on Transfer Learning.
 
+My research focuses on: 
+
 <!--- Add more cv--->
 
 __ROBUST METHODS FOR TIME SERIES ANALYSIS__
 
 <!--- From the daily values of stock indices to the minutely recorded number of your heart beats: time series, i.e. timely-ordered sequences of correlated observations, appear everywhere. Their analysis becomes increasingly important due to the massive production of data through, e.g. the internet of things or the digitalization of healthcare.--->
 
-My research focuses on robust methods for time series analysis, i.e. on statistical techniques that are designed to handle data that contains outliers, structural changes, or other types of deviations from the expected patterns. Traditional time series analysis methods can be sensitive to such deviations and may produce inaccurate results. Robust methods aim to overcome this limitation by identifying and downweighting the influence of anomalies, while still preserving the overall structure of the time series. Ordinal patterns, which represent the spatial ordering of consecutive values in a time series, constitute one example of such methods.
+In time series analysis, robust methods are statistical techniques designed to handle data that contains outliers, structural changes, or other types of deviations from expected patterns. Traditional time series analysis methods can be sensitive to such deviations and may produce inaccurate results. Robust methods aim to overcome this limitation by identifying and downweighting the influence of anomalies, while still preserving the overall structure of the time series. Ordinal patterns, which represent the spatial ordering of consecutive values in a time series, constitute one example of such methods.
 
 ![image info](op_in_ts.png)
 
 __TRANSFER LEARNING__
 
-Transfer learning is a machine learning paradigm that leverages knowledge gained from solving one task and applies it to a different but related task. In traditional machine learning, models are trained from scratch for a specific task with a designated dataset. However, transfer learning allows pre-trained models, often developed on large and diverse datasets, to be adapted for new tasks with smaller datasets. This approach is particularly beneficial when labeled data for the target task is limited or expensive to obtain. By transferring knowledge learned from a source domain to a target domain, transfer learning accelerates the training process and enhances the performance of models on new tasks. 
+Transfer learning is a machine learning paradigm that leverages knowledge gained from solving one task to apply it to a different but related task. In traditional machine learning, models are trained from scratch for a specific task with a designated dataset. However, transfer learning allows pre-trained models, often developed on large and diverse datasets, to be adapted to new tasks for potentially smaller datasets. This approach is particularly beneficial when labeled data for the target task is limited or expensive to obtain. By transferring knowledge learned from a source domain to a target domain, transfer learning accelerates the training process and enhances the performance of models on new tasks. 
 
 ![image info](transfer_learning.png)
 
